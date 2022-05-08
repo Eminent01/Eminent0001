@@ -1,16 +1,16 @@
-title:              Black star
-email:              saheed@gmail.com
-description:        It is my website
-author:             Saheed
+title:              Machine Learning Notes
+email:              aademola@aimsammi.org
+description:        A page for all notes regarding machine learning work
+author:             Ademola Abiodun Saheed
 baseurl:            ""
 url:                "https://Eminent01.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+#twitter_username:   SBootstrap
+github_username:    Eminent01
+facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username: linkedin.com/in/abiodun-ademola  
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
